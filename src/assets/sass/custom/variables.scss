@@ -1,0 +1,66 @@
+// ===========================
+//GLOBAL SETTINGS
+// ===========================
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+$global-font-family: 'Varela Round', sans-serif;
+$global-font-size: 16px;
+$base-body-font-weight: 400;
+$global-line-height: 1.6;
+
+// ===========================
+//COLOR & BACKGROUND
+// ===========================
+$global-color: #868585;
+// $global-background: #fcfcfc;
+// $global-primary-color: #fddf00;
+$global-primary-background:#6852ed;
+$global-secondary-background: #ef7171;
+// $global-border-width: 200px;
+// $global-muted-color: #fddf00;
+// $global-muted-background: $global-primary-background;
+
+$icon-button-color:#fff;
+$icon-button-background:$global-primary-background;
+$icon-button-hover-color:#fff;
+$icon-button-hover-background:$global-secondary-background;
+// ===========================
+//LINK
+// ===========================
+$global-link-color:$global-primary-background;
+// $global-link-color: $global-primary-background;
+$link-muted-hover-color: $global-secondary-background;
+$base-link-hover-text-decoration: none;
+
+// ===========================
+//BORDER
+// ===========================
+// $heading-bullet-border: $global-primary-background;
+// $global-border: $global-primary-background;
+
+// ===========================
+//SELECTION
+// ===========================
+// $base-selection-color: #212121;
+$base-selection-background:$global-primary-background;
+
+// ===========================
+//HEADING
+// ===========================
+// $base-heading-font-family: "Roboto", sans-serif;
+// $base-heading-font-weight: 500;
+$base-heading-color: #3d1a4a;
+// $heading-line-width:200px;
+// $heading-xlarge-font-size-l: 114px;
+// $heading-xlarge-font-size-m: 114px;
+// $heading-xlarge-font-size-s: 114px;
+
+// ===========================
+//CONTAINER
+// ===========================
+$container-max-width: 1300px;
+// $container-large-max-width: 1300px;
+
+// ===========================
+//OFFCANVAS
+// ===========================
+// $offcanvas-bar-background: #fff;
